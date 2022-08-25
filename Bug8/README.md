@@ -1,7 +1,7 @@
 Приоритет - High
 
 Кнопка Show не связана с поисковой строкой
-Шаги:
+Шаги: <br>
 —Открыть главную страницу <br>
 —Investors <br>
 —Preferred Investment Horizon "16-25" <br>
