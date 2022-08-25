@@ -1,1 +1,1 @@
-![alt text](images1/bug1106.png)
+![alt text](/images1/bug1106.png)
