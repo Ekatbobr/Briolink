@@ -1,4 +1,5 @@
 Приоритет - High
+
 Не отображаются сохраненные профили в Investors, Service Providers and People.
 ![alt text](images1/2022-08-22_15-59-15.png)
 ![alt text](images1/2022-08-22_15-59-36.png)
