@@ -1,1 +1,1 @@
-![alt text](Briolink/Bug1/images/bug1106.png)
+![alt text](images1/bug1106.png)
